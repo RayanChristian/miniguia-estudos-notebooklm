@@ -77,7 +77,8 @@ int main() { // Função principal obrigatória
 * **Tipo de Dado:** Define o conjunto de valores que uma variável pode assumir e o espaço que ocupará na memória (ex: int, float, char).
 
 ### 🔄 Prompts Reutilizáveis
-Para guiar futuras revisões ou expandir o conhecimento deste caderno temático, utilize a seguinte estrutura de prompt no Gemini ou no NotebookLM:
+
+Para a realização de futuras revisões ou expansão do conhecimento contido neste caderno temático, a seguinte estrutura de prompt foi desenvolvida para execução em ambientes como Gemini ou NotebookLM:
 
 * **Prompt de Aprendizado Ativo:**
   > "Atue como um tutor acadêmico especialista em computação, utilizando as fontes fornecidas. Siga o padrão de resposta: Explicação -> Exemplos práticos em código C -> Dúvidas comuns com resoluções."
